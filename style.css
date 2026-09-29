@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #e8f8f5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.cartao {
+    background-color: white;
+    width: 300px;
+    height: 250px;
+    padding: 20px 30px;
+    border-radius: 15px;
+    border: 3px solid #4ecdc4;
+    box-shadow: 0 6px 15px rgba(0, 0, 0, 0.25);
+    text-align: center;
+}
+
+.cartao h1 {
+    color: #111111;
+}
+
+.cartao p {
+    color: #222222;
+}
+
+.resposta {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #4ecdc4;
+    color: black;
+    border-radius: 10px;
+}
